@@ -4,6 +4,8 @@
 
 **References**
 
+[https://blog.mhdr.ir/2017/03/14/configure-react-with-typescript/](https://blog.mhdr.ir/2017/03/14/configure-react-with-typescript/)
+
 [https://www.typescriptlang.org/docs/handbook/react-&-webpack.html](https://www.typescriptlang.org/docs/handbook/react-&-webpack.html)
 
 [https://www.typescriptlang.org/docs/handbook/jsx.html](https://www.typescriptlang.org/docs/handbook/jsx.html)
