@@ -1,4 +1,3 @@
-/// <reference types="react" />
 import * as React from "react";
 export interface HeaderProps {
     compiler: string;
@@ -6,6 +5,6 @@ export interface HeaderProps {
     isBold: boolean;
 }
 declare class Header extends React.Component<HeaderProps, undefined> {
-    render(): JSX.Element;
+    render(): any;
 }
 export default Header;
