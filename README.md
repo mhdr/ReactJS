@@ -13,3 +13,5 @@
 **006** ==> [Events & ReactJS](https://github.com/mhdr/ReactJSSamples/tree/master/006)
 
 **007** ==> [State of Components](https://github.com/mhdr/ReactJSSamples/tree/master/007)
+
+**008** ==> [Stateless Components](https://github.com/mhdr/ReactJSSamples/tree/master/008)
